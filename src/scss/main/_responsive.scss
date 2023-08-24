@@ -1,0 +1,15 @@
+@media(max-width: 768px) {
+    .person {
+        height: 100%;
+        max-width: 180px;
+        max-height: 300px;
+    }
+}
+@media(max-width: 650px) {
+    .main {
+        margin-top: -60px;
+    }
+    .person {
+        display: none;
+    }
+}

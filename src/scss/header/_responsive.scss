@@ -1,0 +1,15 @@
+@media (max-width: 662px) {
+    .nav {
+        justify-content: space-between !important;
+        padding: 0 20px;
+        &-links {
+            display: none !important;
+        }
+        .burger-menu {
+            display: flex !important;
+            .line {
+                display: block !important;
+            }
+        }
+    }
+}
