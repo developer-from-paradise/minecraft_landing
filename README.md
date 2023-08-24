@@ -60,12 +60,12 @@ This repository contains the code for the landing page of our Minecraft server's
     ├──┬─ 🗄 src/ - directory for project source files
     │  ├──┬─ ⚙ components/ - component directory
     │  │  ├─── 🧩 bem-blocks/ - directory for BEM blocks
-    │  │   └─── 🗂 page-blocks/ - directory for typical page blocks, such as header, footer, etc.
+    │  │  └─── 🗂 page-blocks/ - directory for typical page blocks, such as header, footer, etc.
     │  ├──── 🔤 fonts/ - directory for fonts
     │  ├──── 🖼 img/ - image directory
     │  ├──── 📑 js/ - directory for JavaScript files
     │  ├──┬─ 📜 scss/ - directory for style files
-    │  │   └─── 🧬 base/ - directory for base styles, which we will not modify
+    │  │  └─── 🧬 base/ - directory for base styles, which we will not modify
     │  └──┬─ ⛱ svg/ - directory for SVG files
     │     └─── 🏷 css/ - directory for SVG files that will be integrated into CSS
     │
